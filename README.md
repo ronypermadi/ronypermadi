@@ -57,10 +57,8 @@
 <p align="center">
 <a href="https://www.ronypermadi.com"><img src="https://img.shields.io/badge/-ronypermadi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rony-permadi-a835a5b2"><img src="https://img.shields.io/badge/-Rony%20Permadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ronnypermadi1@gmail.com"><img src="https://img.shields.io/badge/-ronnypermadi1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ronypermadi1"><img src="https://img.shields.io/badge/-@ronypermadi1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/roony.permadi"><img src="https://img.shields.io/badge/-@rony.permadi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/ronypermadi"><img src="https://img.shields.io/badge/-@ronypermadi-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://facebook.com/rony.permadi"><img src="https://img.shields.io/badge/-@rony.permadi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
