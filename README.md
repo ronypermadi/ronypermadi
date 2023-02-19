@@ -1,6 +1,6 @@
 ### Hi I'm Rony Permadi 👋
 
-<img align="right" src="https://camo.githubusercontent.com/d4081c7634e23a9e47e1e3fe50d9e943f1d8d91d0d02f338e8341daf1c9b4ac9/68747470733a2f2f7777772e726f6e797065726d6164692e636f6d2f6173736574732f66726f6e742f696d616765732f756e647261772f756e647261775f636f64655f7265766965775f6c3171392e737667" width="500" height="300" style="transform: rotateY(180deg);" />
+<img align="right" src="https://raw.githubusercontent.com/ronypermadi/ronypermadi/main/undraw_programming.png" width="500" height="300" style="transform: rotateY(180deg);" />
 
 ---
 
@@ -67,4 +67,4 @@
 -----
 Credits: [Rony Permadi](https://github.com/ronypermadi)
 
-Last Edited on: 30/07/2021
+Last Edited on: 19/02/2023
