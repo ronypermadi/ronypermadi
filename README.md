@@ -58,7 +58,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.ronypermadi.com"><img src="https://img.shields.io/badge/-ronypermadi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://me.rionapp.com"><img src="https://img.shields.io/badge/-ronypermadi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ronypermadi"><img src="https://img.shields.io/badge/-Rony%20Permadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/ronypermadi1"><img src="https://img.shields.io/badge/-@ronypermadi1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/rony.permadi"><img src="https://img.shields.io/badge/-@rony.permadi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -67,4 +67,4 @@
 -----
 Credits: [Rony Permadi](https://github.com/ronypermadi)
 
-Last Edited on: 19/02/2023
+Last Edited on: 09/06/2023
