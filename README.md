@@ -4,10 +4,8 @@
 
 ---
 
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developers.
-- 🤔 I’m looking for help with Open source Contribution.
+- 🔭 I'm currently working as Programmer.
+- 🌱 I'm currently learning all about programming.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
@@ -50,6 +48,7 @@
 <a href="https://github.com/ronypermadi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronypermadi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronypermadi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ronypermadi&&theme=tokyonight" alt="ronypermadi" />
 </a>
 </p>
 
@@ -67,4 +66,4 @@
 -----
 Credits: [Rony Permadi](https://github.com/ronypermadi)
 
-Last Edited on: 09/06/2023
+Last Edited on: 25/12/2023
