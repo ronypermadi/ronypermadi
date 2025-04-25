@@ -57,13 +57,13 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://me.rionapp.com"><img src="https://img.shields.io/badge/-me.rionapp.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://rionapp.com"><img src="https://img.shields.io/badge/-rionapp.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ronypermadi"><img src="https://img.shields.io/badge/-Rony%20Permadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/ronypermadi1"><img src="https://img.shields.io/badge/-@ronypermadi1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/ronperm"><img src="https://img.shields.io/badge/-@ronperm-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/rony.permadi"><img src="https://img.shields.io/badge/-@rony.permadi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
 Credits: [Rony Permadi](https://github.com/ronypermadi)
 
-Last Edited on: 25/12/2023
+Last Edited on: 25/04/2025
