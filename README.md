@@ -52,14 +52,5 @@
   </a>&nbsp;
   <a href="https://instagram.com/ronperm">
     <img src="https://img.shields.io/badge/-@ronperm-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://facebook.com/rony.permadi">
-    <img src="https://img.shields.io/badge/-@rony.permadi-1877F2?style=flat&logo=Facebook&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/ronypermadi">Rony Permadi</a> · Last Edited: June 2026</sub>
 </p>
