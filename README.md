@@ -4,7 +4,7 @@
 
 # Hi, I'm Rony Permadi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Programmer+%F0%9F%92%BB;Exploring+AI+%26+Blockchain+%F0%9F%A4%96;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Programmer+%F0%9F%92%BB;PHP+%26+Backend+Developer+%F0%9F%9A%80;Exploring+AI+%26+Blockchain+%F0%9F%A4%96;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ronypermadi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -45,12 +45,12 @@
 
 <p align="center">
   <a href="https://rionapp.com">
-    <img src="https://img.shields.io/badge/-rionapp.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-rionapp.com-05122A?style=flat&logo=Google-Chrome&logoColor=58A6FF"/>
   </a>&nbsp;
   <a href="https://linkedin.com/in/ronypermadi">
-    <img src="https://img.shields.io/badge/-Rony%20Permadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=58A6FF"/>
   </a>&nbsp;
   <a href="https://instagram.com/ronperm">
-    <img src="https://img.shields.io/badge/-@ronperm-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=58A6FF"/>
   </a>
 </p>
