@@ -4,7 +4,7 @@
 
 # Hi, I'm Rony Permadi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Programmer+%F0%9F%92%BB;PHP+%26+Backend+Developer+%F0%9F%9A%80;Exploring+AI+%26+Blockchain+%F0%9F%A4%96;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Programmer+%F0%9F%92%BB;Exploring+AI+%26+Blockchain+%F0%9F%A4%96;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ronypermadi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
